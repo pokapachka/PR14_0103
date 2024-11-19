@@ -140,22 +140,22 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onClickTraining1(View view){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=-tZk6m_5beQ"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://youtu.be/iNSAEwfTais?si=2vcQxIT9evSZTA8b"));
         startActivity(browserIntent);
     }
 
     public void onClickTraining2(View view){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=zXLwlRGfCMQ"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://youtu.be/R2QUGDG5m2g?si=kqVrGZUkwPnhH4BT"));
         startActivity(browserIntent);
     }
 
     public void onClickTraining3(View view){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=1EC2qWiQDXg"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://youtu.be/DU4-NRfAZ0k?si=9AQIDop8QwjLPkhs"));
         startActivity(browserIntent);
     }
 
     public void onClickTraining4(View view){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com/watch?v=H21pTB9nJ7I"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://youtu.be/py_7MLifWbQ?si=WNzcRyi46xfI4W_5"));
         startActivity(browserIntent);
     }
 
